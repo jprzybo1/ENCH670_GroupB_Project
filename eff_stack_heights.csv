@@ -1,0 +1,24 @@
+eff_stack_heights
+eff_stack_heights,,,,
+Facility ID,Facility Name,State,Effective Height (m),Source / Reference
+3460,Cedar Bayou,TX,188.4,EIA Form 860 (157m physical + 20% est. plume rise)
+7325,San Jacinto Steam Electric,TX,61,EPA NEI / EIS physical stack height
+50815,Odyssey Energy Altura Cogen,TX,54,Estimated (45m physical + plume rise assumption)
+52088,Texas City Cogeneration,TX,48.8,EPA NEI / EIS Database
+55047,Pasadena Power Plant,TX,64,EIA 860 (53m physical + 20% est. plume rise)
+55187,Channelview Cogeneration,TX,73.2,Title V Permit / Modeling Parameters
+55299,Channel Energy Center,TX,75,EIA Form 860 Design Parameters
+55327,Baytown Energy Center,TX,70.1,EPA NEI Modeling Data
+55365,LaPorte Generating Station,TX,45,Estimated from physical flue data
+55464,Deer Park Energy Center,TX,68,Title V Modeling Data
+55470,South Houston Green Power,TX,52.5,EPA NEI / EIS physical stack height
+56806,Cedar Bayou 4,TX,76,Title V Permit Renewal Application
+60264,Bacliff Generating Station,TX,58,EIA 860 / NEI Data
+60460,"Chamon Power, LLC",TX,42,Estimated (35m physical + plume rise assumption)
+60468,Tejas Power Generation,TX,38.4,EPA NEI / EIS Database
+62548,SJRR Power Peaking,TX,40,Estimated (Simple cycle peaking unit proxy)
+63335,HO Clarke Generating,TX,36,Estimated (30m physical + plume rise assumption)
+63688,Topaz Generating,TX,44,NEI Physical Height + 20% plume rise
+65373,Brotman Power Station,TX,39.6,EPA NEI / EIS Database
+66604,Remy Jade Power Station,TX,41,Estimated from site plan/permit data
+2107,Sioux,MO,220,EIA 860 / Title V (Physical: 183m + Buoyancy)
