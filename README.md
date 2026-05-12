@@ -5,7 +5,7 @@
 # ASOS_sites.xlsx
 # aqs_sites.csv
 # ncore_sites.xlsx
-# effective_stack_heights.csv
+# eff_stack_heights.csv
 # Point source data was obtained using API call from the repository cam-api-examples by USEPA
 # The emissions_data_demo.py file from this repo was run and saved to a .xlsx file "PointSources_startdate-enddate.csv"
 # To test run this code download PointSoure_2024-07-01_2024-07-14.csv 
